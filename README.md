@@ -1,16 +1,5 @@
 # cc206_exercise_unit2
 
-A new Flutter project.
+## Exercise Overview
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This exercise involves setting up and managing a Flutter project with version control using  GitHub. The leader will create a Flutter project, initialize a Git repository, and let members branch and push their changes to GitHub. The task includes creating and managing branches for individual contributions, such as adding personal favorite quotes and images. 
